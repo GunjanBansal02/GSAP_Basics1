@@ -1,6 +1,6 @@
 # ✨ GSAP Basics Practice Project
 
-![GSAP Demo](./gsap_demo.png)
+![GSAP Demo](./gsap_basics.png)
 
 This is a small practice project where I explored the basics of **GSAP (GreenSock Animation Platform)** — a robust JavaScript library for high-performance animations.
 
